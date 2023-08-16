@@ -22,19 +22,19 @@ This project is designed to streamline the process of making reservation request
 ## Getting Started
 To get started with the project, follow these steps:
 
-1. Clone the repository to your local machine using:
-   git clone <repository-url>
-2. Compile the C++ code using your preferred compiler. For example, if you are using g++, you can compile the code with:
-   g++ -o booking_system main.cpp
-3. Run the compiled executable:
-   ./booking_system
+1.  Clone the repository to your local machine using:
+    git clone <repository-url>
+2.  Compile the C++ code using your preferred compiler. For example, if you are using g++, you can compile the code with:
+    g++ -o booking_system main.cpp
+3.  Run the compiled executable:
+    ./booking_system
    
 ## Usage
-1. Upon running the executable, you will be presented with a menu of options.
-2. Choose an option to create a new reservation request (standard or superior), view existing reservation requests, or exit the system.
-3. Follow the prompts to input details such as accommodation information and transportation preferences.
-4. After creating a reservation request, you can view all existing requests or select a specific request to view its details.
-5. You can also choose to cancel a reservation request if needed.
+1.  Upon running the executable, you will be presented with a menu of options.
+2.  Choose an option to create a new reservation request (standard or superior), view existing reservation requests, or exit the system.
+3.  Follow the prompts to input details such as accommodation information and transportation preferences.
+4.  After creating a reservation request, you can view all existing requests or select a specific request to view its details.
+5.  You can also choose to cancel a reservation request if needed.
 
 ## Classes
 The project contains the following C++ classes:
